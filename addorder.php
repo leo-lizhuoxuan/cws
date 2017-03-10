@@ -1,4 +1,4 @@
-<h1>Add Order</h1><br/>This form is to add order <br/><br/>
+<h1>Add Order!</h1><br/>This form is to add order <br/><br/>
 	<?php
 	if (isset($_GET['id'])){
 		$customer_id = $_GET['id'];
